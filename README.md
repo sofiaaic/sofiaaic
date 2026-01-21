@@ -29,33 +29,11 @@
   </a>
 </p>
 
+## 🛠️ Tech Stack
 
-## 🛠️ Tecnologías y Herramientas
-
-### Lenguajes de Programación
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### Análisis de Datos y Modelamiento
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matlab](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-### Visualización y Reportes
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-### Simulación y Herramientas Técnicas
-- DigSilent Power Factory  
-- OpenDSS  
-- Simulink  
-
-### Otras Herramientas
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,sklearn,matlab,git" />
+</p>
 
 ## 📜 Certificaciones
 
