@@ -13,7 +13,7 @@
 
 - 🔭 Actualmente interesada en roles de **Data Analytics / Analytics aplicada**
 - 📍 Ubicación: **Santiago, Chile**
-- 🔗 [Descargar mi CV (PDF)](CV_Sofia_Ibarra_2026_1 (5).pdf)
+- 🔗 [Descargar mi CV (PDF)](CV_Sofia_Ibarra_2026_1.pdf)
   
 ## 💌 Cómo contactarme
 
