@@ -1,7 +1,7 @@
 <img width="772" height="270" alt="image" src="https://github.com/user-attachments/assets/9636c5c9-1dd7-4e1d-b73f-0c22a87a44c1" />
 
 
-## 🚀 Sobre mí
+## Sobre mí
 
 ¡Hola! Soy Ingeniera Civil Eléctrica egresada de la Universidad de Chile, con una fuerte orientación al análisis de datos, modelamiento y optimización. Me interesa aplicar herramientas de analítica, estadística y programación para comprender sistemas complejos y apoyar la toma de decisiones basada en datos.
 
@@ -12,11 +12,23 @@
 📚 Disfruto aprender continuamente y explorar nuevas aplicaciones de la analítica de datos en distintos dominios.
 
 - 🔭 Actualmente interesada en roles de **Data Analytics / Analytics aplicada**
-- 📫 Cómo contactarme: **sofia.ibarra09@gmail.com**
 - 📍 Ubicación: **Santiago, Chile**
-- 🔗 LinkedIn: https://www.linkedin.com/in/sofia-ibarra-cuevas/
+- 🔗 [Descargar mi CV (PDF)](CV_Sofia_Ibarra.pdf)
+  
+## 💌 Cómo contactarme
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/sofia-ibarra-cuevas" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:sofia.ibarra09@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-Contact%20with%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -45,59 +57,6 @@
 
 ---
 
-## 💼 Experiencia Profesional
-
-### 🏢 ENC Consultants — Analista
-*Enero 2025 – Abril 2025 | Santiago, Chile*
-
-- Análisis y valorización de sistemas de transmisión.
-- Desarrollo de reportes y análisis de datos para procesos internos utilizando Python.
-- Apoyo en la estructuración y validación de información técnica.
-
-**Tecnologías:** Python, Excel
-
----
-
-### 🏢 Coordinador Eléctrico Nacional — Practicante  
-*Enero 2024 – Febrero 2024 | Santiago, Chile*
-
-- Automatización de procesos internos para interconexión de proyectos mediante Python.
-- Análisis y reporte de datos relevantes para la gestión del departamento.
-
-**Tecnologías:** Python, Excel
-
----
-
-### 🏢 Engie Energía Chile — Practicante Business Services & Asset Management  
-*Diciembre 2022 – Marzo 2023 | Santiago, Chile*
-
-- Apoyo en implementación de procesos industriales bajo estándares internacionales.
-- Participación en planes estratégicos relacionados con gestión de activos.
-
----
-
-## 🎓 Experiencia Académica
-
-### 👩‍🏫 Ayudante de Docencia — Universidad de Chile
-
-- **Modelos Avanzados de Sistemas de Distribución y Redes Inteligentes** (2025)
-- **Fundamentos de Control de Sistemas** (2024)
-- **Análisis y Diseño de Circuitos Eléctricos** (2024)
-- **Cálculo Avanzado y Aplicaciones** (2022–2023)
-
-Responsabilidades:
-- Revisión y corrección de evaluaciones.
-- Apoyo a estudiantes en análisis, modelamiento y simulación.
-
----
-
-## 🎓 Educación
-
-- **Ingeniería Civil Eléctrica**  
-  Universidad de Chile (2020 – 2025)
-
----
-
 ## 📜 Certificaciones
 
 - Applied Machine Learning in Python — *University of Michigan*
@@ -116,7 +75,8 @@ Responsabilidades:
 - Calidad y gobernanza de datos
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sofiaaic&style=for-the-badge&color=blue" />
+</p>
 
-## 💡 Algo adicional
 
-> Entender bien los datos es el primer paso para tomar mejores decisiones.
