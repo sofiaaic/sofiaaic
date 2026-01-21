@@ -1,4 +1,5 @@
-# ¡Hola! 👋 Soy Sofía Ibarra Cuevas
+<img width="772" height="270" alt="image" src="https://github.com/user-attachments/assets/9636c5c9-1dd7-4e1d-b73f-0c22a87a44c1" />
+
 
 ## 🚀 Sobre mí
 
